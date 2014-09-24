@@ -1,40 +1,40 @@
+ls
+README.md
+ls
+vi README.md
+git add README.md
+git commit -m 'Added the insert'
+git push origin
+exit
 clear
 ls
-ls d
-ls_d
-pwd
-exit
-ls
-pwd
-ls
-ls d
-ls njit
-ls~d
-ls_d
-pwd
-exit
-~/.ssh
-.ssh directory
-ssh-keygen
-$ eval  "$(ssh-agent -s)"
-~/.ssh/id/_rsa.pub
-ssh-add ~/.sshid_rsa
-$ ssh-add ~/.ssh/id_rsa
-eval "(ssh-agent -s)"
-ssh-add~/.ssh/id_rsa
-pbcopy < ~/.ssh/id_rsa.pub
-ssh-add ~/.ssh/id_rsa
-chmod
-pwd
+git
 git init
-cd~/.ssh
-cd ~/.ssh
-ssh-keygen -t rsa -C 'Chris.bonilla23@yahoo.com'
-cat git_rsa.pub | pbcopy
-cat git_rsa.pub | ThisIsNew
-cat git_rsa.pub
-ssh-add (git_rsa)
-ssh-add git_rsa
-njit ssh-add git_rsa
-ssh-add
+touch README.md
+git init
+ls
+ls -l
+git status
+git@github.com:Zarkoned/5minless.git
+git add
+cd
+git init
+git status
+git add
+git add. 
+git help
+git status
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Zarkoned/5minless.git
+git push -u origin master
+git status
+clear
+cd public_html
+../
+~..
+~../
+cd ~/..
+ls
 exit
